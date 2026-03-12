@@ -2,6 +2,8 @@
 
 React + Vite post feed with infinite scroll, optimistic likes, and refresh persistence.
 
+Live demo: https://post-feed-2.netlify.app
+
 *Created with AI during an interview.*
 
 ## Quick Start
