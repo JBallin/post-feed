@@ -2,6 +2,8 @@
 
 React + Vite post feed with infinite scroll, optimistic likes, and refresh persistence.
 
+*Created with AI during an interview.*
+
 ## Quick Start
 
 ```bash
